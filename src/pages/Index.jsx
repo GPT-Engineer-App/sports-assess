@@ -33,7 +33,7 @@ const SportsPerformanceAssessment = () => {
           Sports Performance Assessment
         </Heading>
         <Spacer />
-        <Image src="https://images.unsplash.com/photo-1579702493660-c0ec1bd69131?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBwZXJmb3JtYW5jZXxlbnwwfHx8fDE3MTE0MTgxMjJ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Sports" w={200} />
+        <Image src="https://images.unsplash.com/photo-1614732414444-096e5f1122d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjAwMjR8MHwxfHNlYXJjaHwxfHxibGFjayUyMHN0YXJ8ZW58MHx8fHwxNjc5ODU5NTg1fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Black Star" w={200} />
       </Flex>
       <form onSubmit={handleSubmit}>
         <VStack spacing={4} align="stretch">
